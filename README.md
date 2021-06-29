@@ -1,7 +1,9 @@
 ### Hi there 👋
-I'm Industrial mechatronics technician by day, programmer by night
+- 🇵🇹
+- 👷 I'm Industrial mechatronics technician by day, programmer by night
 - 🔭 I’m currently working on embedded systems programming and electronics
-💬 Ask me about my work! 😄
+- 💬 Ask me about my work! 😄 
+- ![alt text](https://github.com/JotaRandom/archlinux-artwork/blob/master/web/arch8015a.png?raw=true) 
 <!--
 **guu1/guu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
